@@ -1,8 +1,8 @@
 ### Hi there, I'm [Diego Axsel](https://durgeshsamariya.github.io) 👋
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://zachayers.io)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zjayers)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zjayers/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)]()
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]()
 
 I am a fullstack software developer, finishing my specialization in software engineering focused on testing, I am a person passionate about programming, I work well in teams of different sizes and I am characterized by having a good critical thinking for problem solving.
 
