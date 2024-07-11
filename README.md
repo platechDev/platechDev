@@ -50,9 +50,6 @@ I am a fullstack software developer, finishing my specialization in software eng
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=platechDev&count_private=true&include_all_commits=true&token=)
-
 <!-- 
 ----
 [<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
