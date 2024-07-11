@@ -50,7 +50,8 @@ I am a fullstack software developer, finishing my specialization in software eng
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxlMax&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+### github stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=platechDev)
 
 <!-- 
 ----
