@@ -34,7 +34,8 @@ I am a fullstack software developer, finishing my specialization in software eng
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-Base%20de%20datos-red)
+![Oracle](https://img.shields.io/badge/Oracle-v19.3-red?logo=oracle&logoColor=white)
+
 
 ### iot Brokers
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
