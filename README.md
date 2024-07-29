@@ -34,6 +34,7 @@ I am a fullstack software developer, finishing my specialization in software eng
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Base%20de%20datos-red)
 
 ### iot Brokers
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
@@ -42,6 +43,7 @@ I am a fullstack software developer, finishing my specialization in software eng
 ### frameworks
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-v12.0.0-red)
 
 #### Tools and Technologies
 
